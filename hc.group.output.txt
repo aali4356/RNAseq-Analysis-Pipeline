@@ -1,0 +1,101 @@
+ENTREZ_GENE_ID	Name	Species
+1667	defensin alpha 1(DEFA1)	Homo sapiens
+387590	TPTE pseudogene 1(TPTEP1)	Homo sapiens
+1668	defensin alpha 3(DEFA3)	Homo sapiens
+101928214	uncharacterized LOC101928214(LOC101928214)	Homo sapiens
+101928089	SMYD3 antisense RNA 1(SMYD3-AS1)	Homo sapiens
+339855	kyphoscoliosis peptidase(KY)	Homo sapiens
+4493	metallothionein 1E(MT1E)	Homo sapiens
+105377225	uncharacterized LOC105377225(LOC105377225)	Homo sapiens
+110091776	ankyrin repeat domain 18B pseudogene(LOC110091776)	Homo sapiens
+28816	immunoglobulin lambda variable 2-11(IGLV2-11)	Homo sapiens
+105374167	uncharacterized LOC105374167(LOC105374167)	Homo sapiens
+105377110	CFAP20DC divergent transcript(CFAP20DC-DT)	Homo sapiens
+6036	ribonuclease A family member 2(RNASE2)	Homo sapiens
+100462953	MICOS10 pseudogene 1(MICOS10P1)	Homo sapiens
+107987192	uncharacterized LOC107987192(LOC107987192)	Homo sapiens
+28439	immunoglobulin heavy variable 3-30(IGHV3-30)	Homo sapiens
+101927817	uncharacterized LOC101927817(LOC101927817)	Homo sapiens
+105377498	uncharacterized LOC105377498(LOC105377498)	Homo sapiens
+28573	T cell receptor beta variable 14(TRBV14)	Homo sapiens
+105371354	uncharacterized LOC105371354(LOC105371354)	Homo sapiens
+671	bactericidal permeability increasing protein(BPI)	Homo sapiens
+664618	heat shock protein 90 alpha family class B member 4, pseudogene(HSP90AB4P)	Homo sapiens
+107985486	uncharacterized LOC107985486(LOC107985486)	Homo sapiens
+932	membrane spanning 4-domains A3(MS4A3)	Homo sapiens
+101927861	long intergenic non-protein coding RNA 1293(LINC01293)	Homo sapiens
+107987401	uncharacterized LOC107987401(LOC107987401)	Homo sapiens
+107985736	uncharacterized LOC107985736(LOC107985736)	Homo sapiens
+54055	cytochrome P450 family 4 subfamily F member 29, pseudogene(CYP4F29P)	Homo sapiens
+102723382	ankyrin repeat domain-containing protein 20B-like(LOC102723382)	Homo sapiens
+154664	ATP binding cassette subfamily A member 13(ABCA13)	Homo sapiens
+728358	defensin alpha 1B(DEFA1B)	Homo sapiens
+105371880	uncharacterized LOC105371880(LOC105371880)	Homo sapiens
+6192	ribosomal protein S4 Y-linked 1(RPS4Y1)	Homo sapiens
+2352	folate receptor gamma(FOLR3)	Homo sapiens
+3505	immunoglobulin heavy constant gamma P (non-functional)(IGHGP)	Homo sapiens
+105377781	uncharacterized LOC105377781(LOC105377781)	Homo sapiens
+5555	proline rich protein HaeIII subfamily 2(PRH2)	Homo sapiens
+820	cathelicidin antimicrobial peptide(CAMP)	Homo sapiens
+100131395	uncharacterized LOC100131395(LOC100131395)	Homo sapiens
+105372272	lncRNA inflammatory and mucous response associated, antisense to ICAM1(LIMASI)	Homo sapiens
+3135	major histocompatibility complex, class I, G(HLA-G)	Homo sapiens
+26047	contactin associated protein 2(CNTNAP2)	Homo sapiens
+1088	CEA cell adhesion molecule 8(CEACAM8)	Homo sapiens
+100287290	uncharacterized LOC100287290(LOC100287290)	Homo sapiens
+10562	olfactomedin 4(OLFM4)	Homo sapiens
+55365	transmembrane protein 176A(TMEM176A)	Homo sapiens
+100049587	sialic acid binding Ig like lectin 14(SIGLEC14)	Homo sapiens
+100507195	long intergenic non-protein coding RNA 2384(LINC02384)	Homo sapiens
+105372801	uncharacterized LOC105372801(LOC105372801)	Homo sapiens
+4680	CEA cell adhesion molecule 6(CEACAM6)	Homo sapiens
+101927257	MRTFA antisense RNA 1(MRTFA-AS1)	Homo sapiens
+8653	DEAD-box helicase 3 Y-linked(DDX3Y)	Homo sapiens
+5197	platelet factor 4 variant 1(PF4V1)	Homo sapiens
+101928669	uncharacterized LOC101928669(LOC101928669)	Homo sapiens
+107984673	uncharacterized LOC107984673(LOC107984673)	Homo sapiens
+100287029	DEAD/H-box helicase 11 like 10 (pseudogene)(DDX11L10)	Homo sapiens
+1359	carboxypeptidase A3(CPA3)	Homo sapiens
+10321	cysteine rich secretory protein 3(CRISP3)	Homo sapiens
+101928001	PRKCA antisense RNA 1(PRKCA-AS1)	Homo sapiens
+107985980	uncharacterized LOC107985980(LOC107985980)	Homo sapiens
+64595	testis-specific transcript, Y-linked 15(TTTY15)	Homo sapiens
+29018	FOXN3 antisense RNA 2(FOXN3-AS2)	Homo sapiens
+8284	lysine demethylase 5D(KDM5D)	Homo sapiens
+4317	matrix metallopeptidase 8(MMP8)	Homo sapiens
+105375130	uncharacterized LOC105375130(LOC105375130)	Homo sapiens
+3934	lipocalin 2(LCN2)	Homo sapiens
+286554	BCL6 corepressor pseudogene 1(BCORP1)	Homo sapiens
+8287	ubiquitin specific peptidase 9 Y-linked(USP9Y)	Homo sapiens
+266727	MAM domain containing glycosylphosphatidylinositol anchor 1(MDGA1)	Homo sapiens
+100505881	MAGI2 antisense RNA 3(MAGI2-AS3)	Homo sapiens
+101927543	uncharacterized LOC101927543(LOC101927543)	Homo sapiens
+3045	hemoglobin subunit delta(HBD)	Homo sapiens
+22885	actin binding LIM protein family member 3(ABLIM3)	Homo sapiens
+105376033	uncharacterized LOC105376033(LOC105376033)	Homo sapiens
+28775	immunoglobulin lambda variable 7-46(IGLV7-46)	Homo sapiens
+2920	C-X-C motif chemokine ligand 2(CXCL2)	Homo sapiens
+100873962	long intergenic non-protein coding RNA 278(LINC00278)	Homo sapiens
+7404	ubiquitously transcribed tetratricopeptide repeat containing, Y-linked(UTY)	Homo sapiens
+246126	taxilin gamma pseudogene, Y-linked(TXLNGY)	Homo sapiens
+5616	protein kinase Y-linked (pseudogene)(PRKY)	Homo sapiens
+107986461	uncharacterized LOC107986461(LOC107986461)	Homo sapiens
+106480429	HLA-DQB1 antisense RNA 1(HLA-DQB1-AS1)	Homo sapiens
+650623	BEN domain containing 3 pseudogene 3(BEND3P3)	Homo sapiens
+7544	zinc finger protein Y-linked(ZFY)	Homo sapiens
+7288	TUB like protein 2(TULP2)	Homo sapiens
+284415	V-set and transmembrane domain containing 1(VSTM1)	Homo sapiens
+2812	glycoprotein Ib platelet subunit beta(GP1BB)	Homo sapiens
+107984275	uncharacterized LOC107984275(LOC107984275)	Homo sapiens
+100874239	ARHGAP26 antisense RNA 1(ARHGAP26-AS1)	Homo sapiens
+9086	eukaryotic translation initiation factor 1A Y-linked(EIF1AY)	Homo sapiens
+2815	glycoprotein IX platelet(GP9)	Homo sapiens
+	107986761		
+	107984459		
+	107985558		
+	107984593		
+	107986485		
+	105373089		
+	102724615		
+	107985227		
+
